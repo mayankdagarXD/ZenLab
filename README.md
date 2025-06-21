@@ -25,10 +25,8 @@
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/6388707/273420073-zeneditor-demo.gif" alt="ZenTest Web Editor Demo" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/d74c0368-6be1-4fd2-a0ac-3a09a825f1b1" alt="ZenTest Web Editor Demo" width="80%"/>
   <br/>
-  <sub><i>![image](https://github.com/user-attachments/assets/6b6704b6-6fc9-44b0-88c1-f397f4700406)
-</i></sub>
 
 </div>
 
