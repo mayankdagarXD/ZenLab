@@ -29,7 +29,9 @@
 
   <img src="https://github.com/user-attachments/assets/d74c0368-6be1-4fd2-a0ac-3a09a825f1b1" alt="ZenLab Demo" width="80%"/>
   <br/>
-  🚀 **Live Demo:** [Click here to try it out](https://zenlabbeta.netlify.app/)
+  <p style="text-align: left;">
+  🚀 <strong>Live Demo:</strong> <a href="https://zenlabbeta.netlify.app/" target="_blank">Click here to try it out</a>
+</p>
 </div>
 
 ---
