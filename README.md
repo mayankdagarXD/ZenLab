@@ -1,17 +1,19 @@
 <div align="center">
 
-  <h1>🧘‍♂️ ZenTest Web Editor</h1>
-  
+  <h1>
+  <span style="background-color: #e0e0e0; padding: 4px 8px; border-radius: 6px;">💻</span>
+  ZenTest Web Editor
+</h1>
   <p>
     <b>A modern, browser-based code editor and dev environment powered by WebContainer, React, Monaco Editor, and Xterm.js.</b>
   </p>
 
   <p>
-    <a href="https://github.com/yourusername/zentest-web-editor/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/yourusername/zentest-web-editor/ci.yml?branch=main&label=build" alt="Build Status"></a>
-    <a href="https://github.com/yourusername/zentest-web-editor/stargazers"><img src="https://img.shields.io/github/stars/yourusername/zentest-web-editor?style=social" alt="GitHub stars"></a>
-    <a href="https://github.com/yourusername/zentest-web-editor/issues"><img src="https://img.shields.io/github/issues/yourusername/zentest-web-editor.svg" alt="Issues"></a>
-    <a href="https://github.com/yourusername/zentest-web-editor/pulls"><img src="https://img.shields.io/github/issues-pr/yourusername/zentest-web-editor.svg" alt="Pull Requests"></a>
-    <a href="https://github.com/yourusername/zentest-web-editor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/zentest-web-editor.svg" alt="License: MIT"></a>
+    <a href="https://github.com/mayankdagarXD/zenlab/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/mayankdagarXD/zenlab/ci.yml?branch=main&label=build" alt="Build Status"></a>
+    <a href="https://github.com/mayankdagarXD/zenlab/stargazers"><img src="https://img.shields.io/github/stars/mayankdagarXD/zenlab?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/mayankdagarXD/zenlab/issues"><img src="https://img.shields.io/github/issues/mayankdagarXD/zenlab.svg" alt="Issues"></a>
+    <a href="https://github.com/mayankdagarXD/zenlab/pulls"><img src="https://img.shields.io/github/issues-pr/mayankdagarXD/zenlab.svg" alt="Pull Requests"></a>
+    <a href="https://github.com/mayankdagarXD/zenlab/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mayankdagarXD/zenlab.svg" alt="License: MIT"></a>
   </p>
 
   <p>
@@ -25,7 +27,8 @@
 
   <br/>
 
-  <img src="https://github.com/user-attachments/assets/d74c0368-6be1-4fd2-a0ac-3a09a825f1b1" alt="ZenTest Web Editor Demo" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/d74c0368-6be1-4fd2-a0ac-3a09a825f1b1" alt="ZenLab Demo" width="80%"/>
+  🚀 **Live Demo:** [Click here to try it out](https://zenlabbeta.netlify.app/)
   <br/>
 
 </div>
@@ -51,8 +54,8 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/mayankdagarXD/zentest-web-editor.git
-cd zentest-web-editor
+git clone https://github.com/mayankdagarXD/zenlab.git
+cd zenlab
 npm install
 ```
 
